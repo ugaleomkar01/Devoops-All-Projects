@@ -5,7 +5,7 @@ Terraform, Ansible, Nginx, and Amazon S3.
 
 ## Student Details
 
-- Name: Aditya Viresh Paithankar
+- Name: Omkar Machhindra Ugale
 - Course: B.Tech CSE (AI & ML)
 - Year: Second Year
 - University: Sanjivani University
